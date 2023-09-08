@@ -1,0 +1,14 @@
+ipdb==0.13.13
+sk-video==1.1.10
+torch_optimizer==0.3.0
+pytorch_lightning
+easydict
+einops
+numpy
+opencv-python-headless
+PyYAML
+scikit-image
+scipy
+tensorboard
+tqdm
+kornia
